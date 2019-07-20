@@ -1,2 +1,2 @@
-# COmpiladorchimbita
-este es el compilador para ganar compiladores
+# compiladores
+subir aqui archivos comprimidos del compilador 
