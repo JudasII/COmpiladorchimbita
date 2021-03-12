@@ -1,0 +1,28 @@
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivo\ManejadorArchivo\bin\Debug\ManejadorArchivo.exe.config
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivo\ManejadorArchivo\bin\Debug\ManejadorArchivo.exe
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivo\ManejadorArchivo\bin\Debug\ManejadorArchivo.pdb
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivo\ManejadorArchivo\obj\Debug\ManejadorArchivo.Form1.resources
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivo\ManejadorArchivo\obj\Debug\ManejadorArchivo.Properties.Resources.resources
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivo\ManejadorArchivo\obj\Debug\ManejadorArchivo.csproj.GenerateResource.Cache
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivo\ManejadorArchivo\obj\Debug\ManejadorArchivo.exe
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivo\ManejadorArchivo\obj\Debug\ManejadorArchivo.pdb
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivo\ManejadorArchivo\obj\Debug\ManejadorArchivo.csprojResolveAssemblyReference.cache
+C:\Users\Juan Carlos\Desktop\ManejadorArchivo4\ManejadorArchivo\ManejadorArchivo\bin\Debug\ManejadorArchivo.exe.config
+C:\Users\Juan Carlos\Desktop\ManejadorArchivo4\ManejadorArchivo\ManejadorArchivo\bin\Debug\ManejadorArchivo.exe
+C:\Users\Juan Carlos\Desktop\ManejadorArchivo4\ManejadorArchivo\ManejadorArchivo\bin\Debug\ManejadorArchivo.pdb
+C:\Users\Juan Carlos\Desktop\ManejadorArchivo4\ManejadorArchivo\ManejadorArchivo\obj\Debug\ManejadorArchivo.csprojResolveAssemblyReference.cache
+C:\Users\Juan Carlos\Desktop\ManejadorArchivo4\ManejadorArchivo\ManejadorArchivo\obj\Debug\ManejadorArchivo.Form1.resources
+C:\Users\Juan Carlos\Desktop\ManejadorArchivo4\ManejadorArchivo\ManejadorArchivo\obj\Debug\ManejadorArchivo.Properties.Resources.resources
+C:\Users\Juan Carlos\Desktop\ManejadorArchivo4\ManejadorArchivo\ManejadorArchivo\obj\Debug\ManejadorArchivo.csproj.GenerateResource.Cache
+C:\Users\Juan Carlos\Desktop\ManejadorArchivo4\ManejadorArchivo\ManejadorArchivo\obj\Debug\ManejadorArchivo.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos\Desktop\ManejadorArchivo4\ManejadorArchivo\ManejadorArchivo\obj\Debug\ManejadorArchivo.exe
+C:\Users\Juan Carlos\Desktop\ManejadorArchivo4\ManejadorArchivo\ManejadorArchivo\obj\Debug\ManejadorArchivo.pdb
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivoClase\ManejadorArchivo\bin\Debug\ManejadorArchivo.exe.config
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivoClase\ManejadorArchivo\bin\Debug\ManejadorArchivo.exe
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivoClase\ManejadorArchivo\bin\Debug\ManejadorArchivo.pdb
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivoClase\ManejadorArchivo\obj\Debug\ManejadorArchivo.Form1.resources
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivoClase\ManejadorArchivo\obj\Debug\ManejadorArchivo.Properties.Resources.resources
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivoClase\ManejadorArchivo\obj\Debug\ManejadorArchivo.csproj.GenerateResource.Cache
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivoClase\ManejadorArchivo\obj\Debug\ManejadorArchivo.exe
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivoClase\ManejadorArchivo\obj\Debug\ManejadorArchivo.pdb
+D:\Universidad\Sem_2018_1\Compiladores\Compilador\ManejadorArchivoClase\ManejadorArchivo\obj\Debug\ManejadorArchivo.csprojResolveAssemblyReference.cache
